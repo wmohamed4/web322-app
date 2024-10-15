@@ -10,7 +10,7 @@ Name: Warsan Mohamed
 Student ID: 31055155
 Date: Oct 15 2024 
 Vercel Web App URL: 
-GitHub Repository URL: 
+GitHub Repository URL: https://github.com/wmohamed4/web322-app
 
 ********************************************************************************/ 
 
